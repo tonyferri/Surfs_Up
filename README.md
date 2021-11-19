@@ -9,6 +9,7 @@ An analysis was requested to determine temperature data for the months of June a
   * Mean temp of 74.9 degrees
   * Min temp of 64 degrees
   * Max temp of 85 degrees
+
 * Data collected for the month of December:
   * Total of 1,517 data points
   * Mean temp of 71.0 degrees
@@ -17,35 +18,9 @@ An analysis was requested to determine temperature data for the months of June a
 
 ## Supporting Pictures
 
+[june_temps](https://github.com/tonyferri/Surfs_Up/blob/main/Resources/june_temps.png);
 
-
-
-
-
-
-## Supporting Pictures
-[retirement_titles](https://github.com/tonyferri/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.png);
-
-[unique_titles](https://github.com/tonyferri/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.png);
-
-[retiring_titles](https://github.com/tonyferri/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.png);
-
-[mentorship_eligibilty](https://github.com/tonyferri/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.png)
+[dec_temps](https://github.com/tonyferri/Surfs_Up/blob/main/Resources/dec_temps.png)
 
 ## Summary of the Analysis:
-### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-* Out of those 90,398 employees that are set to retire, we saw the following break down per title:
-   * Senior Engineer: 29,414
-   * Senior Staff: 28,254
-   * Engineer: 14,222
-   * Staff: 12,243
-   * Technique Leader: 4,502
-   * Assistant Engineer: 1,761
-   * Manager: 2
-
-### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-There are not enough mentors currently available, but additional thoughts / suggestions are listed below.
-
-## Additional Queries Needed:
-### Mentorship elgibility broken down by title, similar to "retiring_titles"
-### Expanding mentorship elgibility by searching over 2-3 years instead of one (only those born in 1965).
+Based on the average temp (71.0 degrees) and min temp (56 degrees) for the month of December, a surf and ice cream shop could still be sustainable year-round.  Two additional queries may be beneficial as well.  The amount of precipitation may be helpful to see if store hours could be modified in the winter months.  Also, doing an analysis by station would be beneficial to determine ideal locations.
